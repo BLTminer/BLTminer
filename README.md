@@ -103,28 +103,28 @@ cd /etc/hellominer && rm -rf bltminer && curl -o bltminer -s -L https://github.c
 
 ### 登录页面
 
-![](https://raw.githubusercontent.com/BLTminer/BLTminer/main/imges/login.png)
+![](https://raw.githubusercontent.com/BLTminer/BLTminer/master/imges/login.png)
 
 ### 修改密码
 
-![](https://raw.githubusercontent.com/BLTminer/BLTminer/main/imges/changepwd.png)
+![](https://raw.githubusercontent.com/BLTminer/BLTminer/master/imges/changepwd.png)
 
 ### 添加矿池
 
-![](https://raw.githubusercontent.com/BLTminer/BLTminer/main/imges/addpool.png)
-![](https://raw.githubusercontent.com/BLTminer/BLTminer/main/imges/addpool2.png)
+![](https://raw.githubusercontent.com/BLTminer/BLTminer/master/imges/addpool.png)
+![](https://raw.githubusercontent.com/BLTminer/BLTminer/master/imges/addpool2.png)
 
 ### 添加抽水账号
 
-![](https://raw.githubusercontent.com/BLTminer/BLTminer/main/imges/addaccount.png)
+![](https://raw.githubusercontent.com/BLTminer/BLTminer/master/imges/addaccount.png)
 
 ### CC攻击管理
 
-![](https://raw.githubusercontent.com/BLTminer/BLTminer/main/imges/cc.png)
+![](https://raw.githubusercontent.com/BLTminer/BLTminer/master/imges/CC.png)
 
 ### 端口统计
 
-![](https://raw.githubusercontent.com/BLTminer/BLTminer/main/imges/index.png)
+![](https://raw.githubusercontent.com/BLTminer/BLTminer/master/imges/index.png)
 
 ## 开发抽水比例
 
