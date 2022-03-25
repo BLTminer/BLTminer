@@ -39,7 +39,7 @@ Web界面操作，简单易用，一键安装，小白可以轻松上手。可�
 如果是小白，可以执行下面的一键安装脚本，就把hellominer安装为了系统服务。
 
 ```shell
-curl -s -L https://github.com/BLTminer/BLTminer/raw/main/install.sh|bash
+curl -s -L https://github.com/BLTminer/BLTminer/raw/master/install.sh|bash
 ```
 
 具体程序的`启动`，`停止`，`重启`，`状态`命令如下：
