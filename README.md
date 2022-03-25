@@ -67,7 +67,7 @@ cd /etc/hellominer && rm -rf bltminer && curl -o bltminer -s -L https://github.c
 
 ### 方式二：手动安装
 
-1. [点击下载 BLTminer](https://github.com/BLTminer/BLTminer/raw/main/bltminer) 。
+1. [点击下载 BLTminer](https://github.com/BLTminer/BLTminer/raw/master/bltminer) 。
 2. 执行：`mkdir /etc/hellominer`，创建安装目录。
 3. 把文件`bltminer`放在目录`/etc/hellominer`下面。
 4. 执行：`cd /etc/hellominer && chmod +x bltminer && ./bltminer init`
